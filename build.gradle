@@ -15,4 +15,8 @@ implementation 'org.testng:testng:7.1.0'
 
 test {
     useTestNG()
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> abd2140 (Initial commit)
